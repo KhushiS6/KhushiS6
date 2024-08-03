@@ -1,5 +1,7 @@
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
+
 ## 👋 Hi there! I'm Khushi, 
-#### a passionate data analyst with a knack for turning complex data into actionable insights. With a strong foundation in key programming languages like Python and SQL, I'm always exploring new ways to uncover patterns and drive decision-making through data. My GitHub is where I share my projects, from data visualizations and predictive models to data cleaning scripts and analysis tools. Feel free to explore my repositories and connect with me if you share a love for data-driven discovery!
+a passionate data analyst with a knack for turning complex data into actionable insights. With a strong foundation in key programming languages like Python and SQL, I'm always exploring new ways to uncover patterns and drive decision-making through data. My GitHub is where I share my projects, from data visualizations and predictive models to data cleaning scripts and analysis tools. Feel free to explore my repositories and connect with me if you share a love for data-driven discovery!
 
 ###
 
@@ -11,30 +13,27 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <p style="text-align: center;">Python</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <p style="text-align: center;">Anaconda</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <p style="text-align: center;">MySQL</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <p style="text-align: center;">Jupyter</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <p style="text-align: center;">Pandas</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <p style="text-align: center;">Numpy</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="30" alt="anaconda logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="30" alt="sqlalchemy logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="30" alt="numpy logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" height="30" alt="pycharm logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <p style="text-align: center;">Selenium</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <p style="text-align: center;">Pycharm</p>
 </div>
+
 
 ###
 
