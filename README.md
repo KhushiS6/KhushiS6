@@ -1,6 +1,5 @@
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
-
 ## 👋 Hi there! I'm Khushi, 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 a passionate data analyst with a knack for turning complex data into actionable insights. With a strong foundation in key programming languages like Python and SQL, I'm always exploring new ways to uncover patterns and drive decision-making through data. My GitHub is where I share my projects, from data visualizations and predictive models to data cleaning scripts and analysis tools. Feel free to explore my repositories and connect with me if you share a love for data-driven discovery!
 
 ###
