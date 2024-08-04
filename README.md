@@ -1,13 +1,17 @@
 ## 👋 Hi there! I'm Khushi,
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
-a passionate data analyst with a knack for turning complex data into actionable insights. With a strong foundation in key programming languages like Python and SQL, I'm always exploring new ways to uncover patterns and drive decision-making through data. My GitHub is where I share my projects, from data visualizations and predictive models to data cleaning scripts and analysis tools. Feel free to explore my repositories and connect with me if you share a love for data-driven discovery!
+Welcome to my GitHub! I’m a passionate data analyst with a deep enthusiasm for harnessing data to drive meaningful insights and decisions. With a solid grounding in Python and SQL, I excel in transforming complex datasets into comprehensible and actionable information.
+
+Here, you’ll find a range of projects showcasing my skills—from dynamic data visualizations and predictive modeling to meticulous data cleaning and comprehensive analysis tools. I’m constantly exploring innovative ways to leverage data and am excited to share my journey and discoveries with you.
+
+Feel free to explore my repositories, and connect with me if you’re interested in discussing data science, collaborating on projects, or just sharing a passion for data-driven insights!
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiS6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhushiS6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiS6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhushiS6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
