@@ -1,9 +1,9 @@
 ## 👋 Hi there! I'm Khushi,
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
-Welcome to my GitHub! I’m a passionate data analyst with a deep enthusiasm for harnessing data to drive meaningful insights and decisions. With a solid grounding in Python and SQL, I excel in transforming complex datasets into comprehensible and actionable information.
+I’m a data analyst with a passion for making sense of complex data. I use Python and SQL to turn raw information into clear, actionable insights that help drive smart decisions. Whether it’s creating detailed data visualizations, building predictive models, or writing scripts to clean and organize data, I’m always working on projects that bring data to life.
 
-Here, you’ll find a range of projects showcasing my skills—from dynamic data visualizations and predictive modeling to meticulous data cleaning and comprehensive analysis tools. I’m constantly exploring innovative ways to leverage data and am excited to share my journey and discoveries with you.
+On my GitHub, you can explore a variety of my projects, from interactive charts to analytical tools. Each project showcases different aspects of my work and my approach to solving data problems. 
 
 Feel free to explore my repositories, and connect with me if you’re interested in discussing data science, collaborating on projects, or just sharing a passion for data-driven insights!
 
