@@ -5,7 +5,9 @@ I’m a data analyst with a passion for making sense of complex data. I use Pyth
 
 On my GitHub, you can explore a variety of my projects, from interactive charts to analytical tools. Each project showcases different aspects of my work and my approach to solving data problems. 
 
-Feel free to explore my repositories, and connect with me if you’re interested in discussing data science, collaborating on projects, or just sharing a passion for data-driven insights!
+Feel free to explore my repositories, and connect with me if you’re interested in discussing data science, collaborating on projects, or just sharing a passion for data-driven insights on www.linkedin.com/in/khushi-sinha-ds6.
+
+
 
 ###
 
