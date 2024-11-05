@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Khushi,
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
-I’m a data analyst with a passion for making sense of complex data. I use Python and SQL to turn raw information into clear, actionable insights that help drive smart decisions. Whether it’s creating detailed data visualizations, building predictive models, or writing scripts to clean and organize data, I’m always working on projects that bring data to life.
+I’m a data analyst with a passion for making sense of complex data. I use Python and SQL to turn raw information into clear, actionable insights that help drive smart decisions. Whether it’s creating detailed data visualizations, or writing scripts to clean and organize data, I’m always working on projects that bring data to life.
 
 On my GitHub, you can explore a variety of my projects, from interactive charts to analytical tools. Each project showcases different aspects of my work and my approach to solving data problems. 
 
