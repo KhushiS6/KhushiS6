@@ -5,18 +5,18 @@ Analytical professional with a unique blend of Data Analytics, Product Analytics
 
 On my GitHub, you can explore a variety of my projects, from interactive charts to analytical tools. Each project showcases different aspects of my work and my approach to solving data problems. 
 
-Feel free to explore my repositories, and connect with me if you’re interested in discussing data science, collaborating on projects, or just sharing a passion for data-driven insights on [LinkedIn](https://www.linkedin.com/in/khushi-sinha-ds6/).
+Feel free to explore my repositories, and connect with me if you’re interested in discussing data science, collaborating on projects, or just sharing a passion for data-driven insights on [LinkedIn](https://www.linkedin.com/in/khushis6).
 
 
 
 ###
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">``
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiS6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />``
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhushiS6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />``
-</div>``
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiS6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhushiS6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+</div> -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -41,10 +41,10 @@ Feel free to explore my repositories, and connect with me if you’re interested
 
 
 <div align="center">
-  <a href="mailto:someone@example.com?subject=Subject%20Here&body=Body%20text%20here" target="_blank">
+  <a href="mailto:khus.ks06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/khushi-sinha-ds6" target="_blank">
+  <a href="https://www.linkedin.com/in/khushis6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/khus_ks06" target="_blank">
